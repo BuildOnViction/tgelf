@@ -1,0 +1,16 @@
+{
+  "name": "tgelf",
+  "version": "1.0.0",
+  "description": "Sync/Tail log file to Gelf",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^6.2.0",
+    "gelf": "^2.0.1",
+    "tail": "^2.0.4"
+  }
+}
